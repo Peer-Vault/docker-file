@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57366232-c75a-46c6-bb81-14874c564b21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Elastic-Kibana/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySql/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solr/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/data/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/data/cleaner-offset-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/data/log-start-offset-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/data/meta.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/data/recovery-point-offset-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/data/replication-offset-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,16 +25,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectId" id="2jVCyGGIvtIaaNCgfzjWT4fcX4p" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/manish/Manish/Projects/Springboot/Peer Vault/docker-file"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Kafka" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="docker" />

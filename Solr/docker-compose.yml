@@ -1,0 +1,14 @@
+version: '3'
+services:
+  solr:
+    image: solr:8.9.0
+    container_name: solr
+    #    user: root
+    ports:
+      - "8983:8983"
+    volumes:
+      - ./data/solr-data:/var/solr/data
+    restart: "no"
+
+volumes:
+  solr:
