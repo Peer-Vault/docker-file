@@ -10,5 +10,6 @@ services:
       - ./data/solr-data:/var/solr/data
     restart: "no"
 
+
 volumes:
   solr:
